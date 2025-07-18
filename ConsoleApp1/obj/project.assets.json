@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/freddy/Desktop/PARA/1-Projects/mssa/demos/csharp/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/Users/freddy/Desktop/PARA/2-Areas/code/student-grades/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/Users/freddy/Desktop/PARA/1-Projects/mssa/demos/csharp/ConsoleApp1/ConsoleApp1.csproj",
+      "projectPath": "/Users/freddy/Desktop/PARA/2-Areas/code/student-grades/ConsoleApp1/ConsoleApp1.csproj",
       "packagesPath": "/Users/freddy/.nuget/packages/",
-      "outputPath": "/Users/freddy/Desktop/PARA/1-Projects/mssa/demos/csharp/ConsoleApp1/obj/",
+      "outputPath": "/Users/freddy/Desktop/PARA/2-Areas/code/student-grades/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/freddy/.nuget/NuGet/NuGet.Config"
